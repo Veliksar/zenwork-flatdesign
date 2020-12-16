@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="276.5" height="587.09" viewBox="0 0 276.5 587.09">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fa7875;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="-389.688" y="3712.91" width="666.188" height="849.78" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="-389.688" y="3712.91" width="666.188" height="849.78" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNjY2LjE4OCIgaGVpZ2h0PSI4NDkuNzgiIHZpZXdCb3g9IjAgMCA2NjYuMTg4IDg0OS43OCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI1NzguNDA0IiB5MT0iODQ5Ljc4IiB4Mj0iODcuNzg0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNlY2VmZjEiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjY2Ni4xODgiIGhlaWdodD0iODQ5Ljc4Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Shape_21_copy" data-name="Shape 21 copy" class="cls-1" d="M-163.59,3759c1.825,8.34,3.144,17.33,6.2,27.06,25.318,80.62,115.336,99.56,185.289,124.19,53.9,18.97,111.426,45.2,151.652,86.9,36.2,37.52,38.248,85.44,30.232,134.22-10.136,61.68-14.7,88.34,21.56,139.04,74.115,103.62,67.946,308.97-101.4,291.23-118.189-12.38-225.526-100.55-314.517-172.2-82.923-66.76-163.544-153.85-193.768-259.92-36.425-127.82,20.89-255.43,87.377-363.04l0.014-.03c22.133-35.81,62.454-71.52,104.41-43.49C-170.945,3733.38-166.585,3745.31-163.59,3759Z" transform="translate(0 -3712.91)"/>
+</svg>
